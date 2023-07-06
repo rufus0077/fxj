@@ -1,0 +1,2 @@
+# fxj
+Forex Journal
